@@ -14,7 +14,7 @@ This is a iOS client which integrated with ARKit and Unity AR. You can build bas
 #### 1. Export Unity Package
 File > Build Setting > iOS > Build > 
 Select a folder you gonna save your unity ios project. 
-#### 2. Arrange the ios project 
+#### 2. Import the Unity folder into git folder  
 Copy the unity folder into this git folder.
 #### 3. Arrange the ios project 
 Inside xcode, File > Add files > Choose the exported unity project target into current worksapce.
