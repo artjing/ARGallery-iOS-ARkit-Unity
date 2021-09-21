@@ -19,9 +19,10 @@ Copy the unity folder into this git folder.
 #### 3. Arrange the ios project 
 Inside xcode, File > Add files > Choose the exported unity project target into current worksapce.
 #### 4.  Add unity.framework into ARGallery.xcodeproj
-<img src="https://raw.githubusercontent.com/artjing/ARGallery-iOS-ARkit-Unity/master/Assets/l_3.png" />  
-#### You can get started to make some interesting things. Just as bellow I made using this codebase.
+<img src="https://raw.githubusercontent.com/artjing/ARGallery-iOS-ARkit-Unity/master/Assets/l_3.png" />
 
+
+##### You can get started to make some interesting things. Just as bellow I made using this codebase.
 <img src="https://raw.githubusercontent.com/artjing/ARGallery-iOS-ARkit-Unity/master/Assets/I_1.PNG" />      
 <img src="https://raw.githubusercontent.com/artjing/ARGallery-iOS-ARkit-Unity/master/Assets/1_2.PNG" />    
 
