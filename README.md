@@ -1,5 +1,6 @@
 # Online Gallery
 
+
 ## Description
 
 This is a iOS client which integrated with ARKit and Unity AR. You can build base this project by exchaning the  AR recognition images, 3d models, and unity package. 
@@ -18,3 +19,9 @@ Copy the unity folder into this git folder.
 #### 3. Arrange the ios project 
 Inside xcode, File > Add files > Choose the exported unity project target into current worksapce.
 #### 4.  Add unity.framework into ARGallery.xcodeproj
+
+## Attribution
+
+-   Feel free to use the code for any purpose, but we request that you attribute the work to  [_Jing Dong_](https://github.com/artjing)  
+
+Thank you and enjoy!
